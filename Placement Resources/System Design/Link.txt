@@ -1,0 +1,8 @@
+Clément Mihailescu System Design Fundamentals :
+1. 
+
+Gaurav Sen System Design :
+1. https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
+Github Repo for System Design Primer :
+https://github.com/donnemartin/system-design-primer

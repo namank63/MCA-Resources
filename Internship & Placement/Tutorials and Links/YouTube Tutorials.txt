@@ -1,0 +1,17 @@
+Binary Search:
+https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+
+Recursion:
+https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+
+Tree:
+https://www.youtube.com/playlist?list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY
+
+Graph (Watch all):
+https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
+https://www.youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m
+https://www.youtube.com/playlist?list=PLpO3gASfJEIJ6cYs4kAY3SnH2kpohSTZI
+
+Dynamic Programming:
+https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go

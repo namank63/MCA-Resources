@@ -1,0 +1,26 @@
+TOH
+Josephus problem
+Euclid Algorithm
+Extended Euclid Algorithm
+Sieve of Erathosthenes
+Segmented Sieve
+Kadane's Algorithm
+Dutch Nation Flag Algorithm
+Moore Voting algorithm (n/2 && n/3)
+Boyer Moore
+Huffman coding
+Bellman-Ford
+Floyd Warshall
+Kosaraju
+Pigeonhole Principle
+Totient Function
+Wilson Theorem
+Lucas Theorem
+Knuth Morris Pratt (KMP)
+Rabin Karp String Matching
+Flood Fill
+Dijkstra
+Kruskal's
+Prim's
+Chinese Remainder Theorem
+Miller - Rabin Prime Algorithm

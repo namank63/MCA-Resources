@@ -1,4 +1,4 @@
-TOH
+Tower Of Hanoi 
 Josephus problem
 Euclid Algorithm
 Extended Euclid Algorithm

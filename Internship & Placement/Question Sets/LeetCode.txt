@@ -4,5 +4,14 @@ https://leetcode.com/problem-list/3d1b6ab26e9d4b5bbc663aaa1010f252/
 Top Interview Questions:
 https://leetcode.com/problem-list/93afdecd8402495fa94c8fb4b98be8fd/
 
-Explore Section:
+Blind 75 Must do Leetcode :
+https://leetcode.com/list?selectedList=9vqhpflv
+
+Google 2020 :
+https://leetcode.com/list?selectedList=5yre1rgr
+
+Explore leetcode articles and discussions :
 https://leetcode.com/explore/learn/
+https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=
+
+

@@ -1,17 +1,21 @@
 Binary Search:
-https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+Aditya Verma : https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
 
 Recursion:
-https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+Aditya Verma : https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+Striver (Recursion + Backtracking) : https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+Kunal Kushwaha (Recursion + Backtracking) : https://www.youtube.com/watch?v=M2uO2nMT0Bk&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod
 
 Tree:
-https://www.youtube.com/playlist?list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY
+Vivekanand Khyade : https://www.youtube.com/playlist?list=PLeIMaH7i8JDj7DnmO7lll97P1yZjMCpgY
+freeCodeCamp.org (Binary Tree): https://www.youtube.com/watch?v=fAAZixBzIAI
 
 Graph (Watch all):
-https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
-https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
-https://www.youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m
-https://www.youtube.com/playlist?list=PLpO3gASfJEIJ6cYs4kAY3SnH2kpohSTZI
+Codebix(Hindi) : https://www.youtube.com/playlist?list=PLpO3gASfJEIJ6cYs4kAY3SnH2kpohSTZI
+CodeNCode (Graph pt. 1) : https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+CodeNCode (Graph pt. 2) : https://www.youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m
+Striver : https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
 
 Dynamic Programming:
-https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+Aditya Verma : https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+freeCodeCamp.org : https://www.youtube.com/watch?v=oBt53YbR9Kk&t=1619s
